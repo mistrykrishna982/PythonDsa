@@ -54,9 +54,9 @@ Python_DS/
 
 ## Author
 
-**Name:** Your Name
+**Name:** Krishna Mistry
 
-**Course:** BCA / B.Sc. / MCA
+**Course:** MCA
 
 **Semester:** Semester 3
 
